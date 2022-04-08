@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CounterBookUI</string>
+    <string name="digitise_your_orderings_n_straight_from_your_phone">Digitise your orderings\n straight from your phone.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="sign_in">Already have an account? Sign in </string>
+    <string name="resend">Did not receive the link? Resend</string>
+    <string name="forgot_pass"><u>Forgot your password?</u></string>
+
+
+</resources>
